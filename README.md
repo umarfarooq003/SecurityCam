@@ -10,10 +10,8 @@ SecureCam is a comprehensive surveillance application designed to enhance securi
    - [Admin Side](#admin-side)
 2. [Installation](#installation)
 3. [Technologies Used](#technologies-used)
-4. [Screenshots](#screenshots)
-5. [Contributing](#contributing)
-6. [License](#license)
-7. [Contact](#contact)
+4. [License](#license)
+
 
 ---
 
@@ -25,13 +23,13 @@ SecureCam is a comprehensive surveillance application designed to enhance securi
    - Approval requests are sent to the admin for validation.
 
 2. **Main Dashboard**
-   ![image](https://github.com/user-attachments/assets/374446ec-8605-4878-8164-393489aa343e)
+     ![image](https://github.com/user-attachments/assets/374446ec-8605-4878-8164-393489aa343e)
    Upon login, users can perform the following actions:
    - **Monitoring**  
      - Run surveillance script.  
      - Load video stream after a 10-second delay.  
      - Stop the video stream and Python process.  
-   ![image](https://github.com/user-attachments/assets/ece4b6f8-c9bc-4d4c-bb7d-180b80bc7519)
+     ![image](https://github.com/user-attachments/assets/ece4b6f8-c9bc-4d4c-bb7d-180b80bc7519)
 
 
 
@@ -61,18 +59,18 @@ SecureCam is a comprehensive surveillance application designed to enhance securi
 
 ### Admin Side
 **Main Dashboard**
-![image](https://github.com/user-attachments/assets/40732f96-691f-4806-bf13-0fcbbe32bd0d)
+    ![image](https://github.com/user-attachments/assets/40732f96-691f-4806-bf13-0fcbbe32bd0d)
 
 1. **Management Accounts**
    - View pending signup requests.
    - Approve or reject user accounts.  
-   ![image](https://github.com/user-attachments/assets/b73ed25d-d58d-4e13-8952-694b1a492924)
+    ![image](https://github.com/user-attachments/assets/b73ed25d-d58d-4e13-8952-694b1a492924)
 
 
 2. **Handle Complaints**
    - View complaints with attached pictures and descriptions.
    - Take actions to resolve the reported issues.  
-   ![image](https://github.com/user-attachments/assets/df020fd7-bc63-4006-aed3-ca13ab324c19)
+    ![image](https://github.com/user-attachments/assets/df020fd7-bc63-4006-aed3-ca13ab324c19)
 
 
 ---
@@ -82,4 +80,16 @@ SecureCam is a comprehensive surveillance application designed to enhance securi
 ```bash
 git clone https://github.com/yourusername/securecam.git
 cd securecam
+```
 
+## Technologies Used
+
+- **Frontend**: C# for desktop UI.
+- **Backend**: Python.
+- **Database**: SSMS(Studio Server Management System).
+- **Notifications**: Twilio (SMS), SMTP (Email).
+- **Process Handling**: Python `subprocess` for script and video stream management.
+
+---
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
