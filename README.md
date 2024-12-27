@@ -29,7 +29,7 @@ SecureCam is a comprehensive surveillance application designed to enhance securi
      - Run surveillance script.  
      - Load video stream after a 10-second delay.  
      - Stop the video stream and Python process.  
-     ![image](https://github.com/user-attachments/assets/ece4b6f8-c9bc-4d4c-bb7d-180b80bc7519)
+ ![image](https://github.com/user-attachments/assets/ece4b6f8-c9bc-4d4c-bb7d-180b80bc7519)
 
 
 
@@ -41,7 +41,7 @@ SecureCam is a comprehensive surveillance application designed to enhance securi
    - **Report Problem**  
      Submit a problem or false positive issue.  
      - Add a picture and detailed text description of the issue.  
-     ![image](https://github.com/user-attachments/assets/a01e07a5-aef0-4698-a33d-b430e1c69927)
+   ![image](https://github.com/user-attachments/assets/a01e07a5-aef0-4698-a33d-b430e1c69927)
 
 
    - **Receive Notifications**  
@@ -49,7 +49,7 @@ SecureCam is a comprehensive surveillance application designed to enhance securi
      - Email.
      - SMS.
      - Desktop notifications.  
-     ![image](https://github.com/user-attachments/assets/4b453650-f829-485b-a754-745c5d954cb0)
+   ![image](https://github.com/user-attachments/assets/4b453650-f829-485b-a754-745c5d954cb0)
 
 
    - **Exit**  
@@ -64,13 +64,13 @@ SecureCam is a comprehensive surveillance application designed to enhance securi
 1. **Management Accounts**
    - View pending signup requests.
    - Approve or reject user accounts.  
-    ![image](https://github.com/user-attachments/assets/b73ed25d-d58d-4e13-8952-694b1a492924)
+   ![image](https://github.com/user-attachments/assets/b73ed25d-d58d-4e13-8952-694b1a492924)
 
 
 2. **Handle Complaints**
    - View complaints with attached pictures and descriptions.
    - Take actions to resolve the reported issues.  
-    ![image](https://github.com/user-attachments/assets/df020fd7-bc63-4006-aed3-ca13ab324c19)
+ ![image](https://github.com/user-attachments/assets/df020fd7-bc63-4006-aed3-ca13ab324c19)
 
 
 ---
