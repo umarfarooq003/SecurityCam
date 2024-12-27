@@ -1,0 +1,493 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Profit Distribution\\SecuirtyCam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|e:\\profit distribution\\secuirtycam\\secuirtycam\\videostream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|solutionrelative:secuirtycam\\videostream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|E:\\Profit Distribution\\SecuirtyCam\\secuirtycam\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|solutionrelative:secuirtycam\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|E:\\Profit Distribution\\SecuirtyCam\\secuirtycam\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|solutionrelative:secuirtycam\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|E:\\Profit Distribution\\SecuirtyCam\\secuirtycam\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|solutionrelative:secuirtycam\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|E:\\Profit Distribution\\SecuirtyCam\\secuirtycam\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|solutionrelative:secuirtycam\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|E:\\Profit Distribution\\SecuirtyCam\\secuirtycam\\videostreamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|solutionrelative:secuirtycam\\videostreamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|E:\\Profit Distribution\\SecuirtyCam\\secuirtycam\\videostream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|solutionrelative:secuirtycam\\videostream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|E:\\Profit Distribution\\SecuirtyCam\\secuirtycam\\notificationalert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|solutionrelative:secuirtycam\\notificationalert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|E:\\Profit Distribution\\SecuirtyCam\\secuirtycam\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|solutionrelative:secuirtycam\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|E:\\Profit Distribution\\SecuirtyCam\\secuirtycam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|solutionrelative:secuirtycam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|E:\\Profit Distribution\\SecuirtyCam\\secuirtycam\\approval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|solutionrelative:secuirtycam\\approval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|E:\\Profit Distribution\\SecuirtyCam\\secuirtycam\\handleproblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|solutionrelative:secuirtycam\\handleproblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|E:\\Profit Distribution\\SecuirtyCam\\secuirtycam\\handleproblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|solutionrelative:secuirtycam\\handleproblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|E:\\Profit Distribution\\SecuirtyCam\\secuirtycam\\reportproblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|solutionrelative:secuirtycam\\reportproblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|E:\\Profit Distribution\\SecuirtyCam\\secuirtycam\\notificationalert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|solutionrelative:secuirtycam\\notificationalert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|E:\\Profit Distribution\\SecuirtyCam\\secuirtycam\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|solutionrelative:secuirtycam\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|E:\\Profit Distribution\\SecuirtyCam\\secuirtycam\\securitycam.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|solutionrelative:secuirtycam\\securitycam.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|E:\\Profit Distribution\\SecuirtyCam\\secuirtycam\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|solutionrelative:secuirtycam\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|E:\\Profit Distribution\\SecuirtyCam\\secuirtycam\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|solutionrelative:secuirtycam\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|E:\\Profit Distribution\\SecuirtyCam\\secuirtycam\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|solutionrelative:secuirtycam\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|E:\\Profit Distribution\\SecuirtyCam\\secuirtycam\\approval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|solutionrelative:secuirtycam\\approval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|E:\\Profit Distribution\\SecuirtyCam\\secuirtycam\\alertform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|solutionrelative:secuirtycam\\alertform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|E:\\Profit Distribution\\SecuirtyCam\\secuirtycam\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|solutionrelative:secuirtycam\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|E:\\Profit Distribution\\SecuirtyCam\\secuirtycam\\reportproblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|solutionrelative:secuirtycam\\reportproblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|E:\\Profit Distribution\\SecuirtyCam\\secuirtycam\\alertform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|solutionrelative:secuirtycam\\alertform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|E:\\Profit Distribution\\SecuirtyCam\\secuirtycam\\viewalert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|solutionrelative:secuirtycam\\viewalert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|E:\\Profit Distribution\\SecuirtyCam\\secuirtycam\\viewalert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|solutionrelative:secuirtycam\\viewalert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|E:\\Profit Distribution\\SecuirtyCam\\secuirtycam\\alertform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6E5944-DA81-440A-AEB0-43563FCAD9AE}|SecuirtyCam\\SecuirtyCam.csproj|solutionrelative:secuirtycam\\alertform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Approval.cs",
+              "DocumentMoniker": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\Approval.cs",
+              "RelativeDocumentMoniker": "SecuirtyCam\\Approval.cs",
+              "ToolTip": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\Approval.cs",
+              "RelativeToolTip": "SecuirtyCam\\Approval.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T17:00:06.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Approval.cs [Design]",
+              "DocumentMoniker": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\Approval.cs",
+              "RelativeDocumentMoniker": "SecuirtyCam\\Approval.cs",
+              "ToolTip": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\Approval.cs [Design]",
+              "RelativeToolTip": "SecuirtyCam\\Approval.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:54:42.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HandleProblem.cs",
+              "DocumentMoniker": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\HandleProblem.cs",
+              "RelativeDocumentMoniker": "SecuirtyCam\\HandleProblem.cs",
+              "ToolTip": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\HandleProblem.cs",
+              "RelativeToolTip": "SecuirtyCam\\HandleProblem.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:57:42.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HandleProblem.cs [Design]",
+              "DocumentMoniker": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\HandleProblem.cs",
+              "RelativeDocumentMoniker": "SecuirtyCam\\HandleProblem.cs",
+              "ToolTip": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\HandleProblem.cs [Design]",
+              "RelativeToolTip": "SecuirtyCam\\HandleProblem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:45:35.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Reportproblem.cs",
+              "DocumentMoniker": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\Reportproblem.cs",
+              "RelativeDocumentMoniker": "SecuirtyCam\\Reportproblem.cs",
+              "ToolTip": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\Reportproblem.cs",
+              "RelativeToolTip": "SecuirtyCam\\Reportproblem.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAYwEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:33:30.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Reportproblem.cs [Design]",
+              "DocumentMoniker": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\Reportproblem.cs",
+              "RelativeDocumentMoniker": "SecuirtyCam\\Reportproblem.cs",
+              "ToolTip": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\Reportproblem.cs [Design]",
+              "RelativeToolTip": "SecuirtyCam\\Reportproblem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:28:38.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "notification.cs",
+              "DocumentMoniker": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\notification.cs",
+              "RelativeDocumentMoniker": "SecuirtyCam\\notification.cs",
+              "ToolTip": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\notification.cs",
+              "RelativeToolTip": "SecuirtyCam\\notification.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAuwHIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:16:00.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "notificationalert.cs",
+              "DocumentMoniker": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\notificationalert.cs",
+              "RelativeDocumentMoniker": "SecuirtyCam\\notificationalert.cs",
+              "ToolTip": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\notificationalert.cs",
+              "RelativeToolTip": "SecuirtyCam\\notificationalert.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAAGkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T16:03:00.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "notification.cs [Design]",
+              "DocumentMoniker": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\notification.cs",
+              "RelativeDocumentMoniker": "SecuirtyCam\\notification.cs",
+              "ToolTip": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\notification.cs [Design]",
+              "RelativeToolTip": "SecuirtyCam\\notification.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:13:04.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "notificationalert.cs [Design]",
+              "DocumentMoniker": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\notificationalert.cs",
+              "RelativeDocumentMoniker": "SecuirtyCam\\notificationalert.cs",
+              "ToolTip": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\notificationalert.cs [Design]",
+              "RelativeToolTip": "SecuirtyCam\\notificationalert.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T16:00:31.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ViewAlert.cs",
+              "DocumentMoniker": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\ViewAlert.cs",
+              "RelativeDocumentMoniker": "SecuirtyCam\\ViewAlert.cs",
+              "ToolTip": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\ViewAlert.cs",
+              "RelativeToolTip": "SecuirtyCam\\ViewAlert.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAiwCkAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:55:47.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ViewAlert.cs [Design]",
+              "DocumentMoniker": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\ViewAlert.cs",
+              "RelativeDocumentMoniker": "SecuirtyCam\\ViewAlert.cs",
+              "ToolTip": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\ViewAlert.cs [Design]",
+              "RelativeToolTip": "SecuirtyCam\\ViewAlert.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:51:05.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Alertform.Designer.cs",
+              "DocumentMoniker": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\Alertform.Designer.cs",
+              "RelativeDocumentMoniker": "SecuirtyCam\\Alertform.Designer.cs",
+              "ToolTip": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\Alertform.Designer.cs",
+              "RelativeToolTip": "SecuirtyCam\\Alertform.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:13:09.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Alertform.cs",
+              "DocumentMoniker": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\Alertform.cs",
+              "RelativeDocumentMoniker": "SecuirtyCam\\Alertform.cs",
+              "ToolTip": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\Alertform.cs",
+              "RelativeToolTip": "SecuirtyCam\\Alertform.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowDYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:12:33.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Alertform.cs [Design]",
+              "DocumentMoniker": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\Alertform.cs",
+              "RelativeDocumentMoniker": "SecuirtyCam\\Alertform.cs",
+              "ToolTip": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\Alertform.cs [Design]",
+              "RelativeToolTip": "SecuirtyCam\\Alertform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:10:36.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "securitycam.py",
+              "DocumentMoniker": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\securitycam.py",
+              "RelativeDocumentMoniker": "SecuirtyCam\\securitycam.py",
+              "ToolTip": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\securitycam.py",
+              "RelativeToolTip": "SecuirtyCam\\securitycam.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-22T19:48:28.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VideoStreamService.cs",
+              "DocumentMoniker": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\VideoStreamService.cs",
+              "RelativeDocumentMoniker": "SecuirtyCam\\VideoStreamService.cs",
+              "ToolTip": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\VideoStreamService.cs",
+              "RelativeToolTip": "SecuirtyCam\\VideoStreamService.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAgwIsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:54:48.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VideoStream.cs",
+              "DocumentMoniker": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\VideoStream.cs",
+              "RelativeDocumentMoniker": "SecuirtyCam\\VideoStream.cs",
+              "ToolTip": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\VideoStream.cs",
+              "RelativeToolTip": "SecuirtyCam\\VideoStream.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:52:57.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VideoStream.cs [Design]",
+              "DocumentMoniker": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\VideoStream.cs",
+              "RelativeDocumentMoniker": "SecuirtyCam\\VideoStream.cs",
+              "ToolTip": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\VideoStream.cs [Design]",
+              "RelativeToolTip": "SecuirtyCam\\VideoStream.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:49:28.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserDashboard.cs",
+              "DocumentMoniker": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\UserDashboard.cs",
+              "RelativeDocumentMoniker": "SecuirtyCam\\UserDashboard.cs",
+              "ToolTip": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\UserDashboard.cs",
+              "RelativeToolTip": "SecuirtyCam\\UserDashboard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:57:24.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDashboard.cs [Design]",
+              "DocumentMoniker": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\UserDashboard.cs",
+              "RelativeDocumentMoniker": "SecuirtyCam\\UserDashboard.cs",
+              "ToolTip": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\UserDashboard.cs [Design]",
+              "RelativeToolTip": "SecuirtyCam\\UserDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:43:30.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminDashboard.cs",
+              "DocumentMoniker": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "SecuirtyCam\\AdminDashboard.cs",
+              "ToolTip": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\AdminDashboard.cs",
+              "RelativeToolTip": "SecuirtyCam\\AdminDashboard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:51:50.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "SecuirtyCam\\AdminDashboard.cs",
+              "ToolTip": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "SecuirtyCam\\AdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:43:18.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SignupForm.cs",
+              "DocumentMoniker": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\SignupForm.cs",
+              "RelativeDocumentMoniker": "SecuirtyCam\\SignupForm.cs",
+              "ToolTip": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\SignupForm.cs",
+              "RelativeToolTip": "SecuirtyCam\\SignupForm.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAcwIMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:13:38.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignupForm.cs [Design]",
+              "DocumentMoniker": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\SignupForm.cs",
+              "RelativeDocumentMoniker": "SecuirtyCam\\SignupForm.cs",
+              "ToolTip": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\SignupForm.cs [Design]",
+              "RelativeToolTip": "SecuirtyCam\\SignupForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T10:01:23.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\LoginForm.cs",
+              "RelativeDocumentMoniker": "SecuirtyCam\\LoginForm.cs",
+              "ToolTip": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\LoginForm.cs [Design]",
+              "RelativeToolTip": "SecuirtyCam\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:08:59.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\Program.cs",
+              "RelativeDocumentMoniker": "SecuirtyCam\\Program.cs",
+              "ToolTip": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\Program.cs",
+              "RelativeToolTip": "SecuirtyCam\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:54:09.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\LoginForm.cs",
+              "RelativeDocumentMoniker": "SecuirtyCam\\LoginForm.cs",
+              "ToolTip": "E:\\Profit Distribution\\SecuirtyCam\\SecuirtyCam\\LoginForm.cs",
+              "RelativeToolTip": "SecuirtyCam\\LoginForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:27:15.515Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 136,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
